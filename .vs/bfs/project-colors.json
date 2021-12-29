@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3a77f24a-3746-4a0b-8b36-66249982f8c0": {
+      "ProjectGuid": "3a77f24a-3746-4a0b-8b36-66249982f8c0",
+      "DisplayName": "bfs",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

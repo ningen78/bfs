@@ -1,0 +1,16 @@
+C:\Shigoto\bfs\bfs\bin\Debug\net5.0\bfs.exe
+C:\Shigoto\bfs\bfs\bin\Debug\net5.0\bfs.deps.json
+C:\Shigoto\bfs\bfs\bin\Debug\net5.0\bfs.runtimeconfig.json
+C:\Shigoto\bfs\bfs\bin\Debug\net5.0\bfs.runtimeconfig.dev.json
+C:\Shigoto\bfs\bfs\bin\Debug\net5.0\bfs.dll
+C:\Shigoto\bfs\bfs\bin\Debug\net5.0\ref\bfs.dll
+C:\Shigoto\bfs\bfs\bin\Debug\net5.0\bfs.pdb
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.csproj.AssemblyReference.cache
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.AssemblyInfoInputs.cache
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.AssemblyInfo.cs
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.csproj.CoreCompileInputs.cache
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.dll
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\ref\bfs.dll
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.pdb
+C:\Shigoto\bfs\bfs\obj\Debug\net5.0\bfs.genruntimeconfig.cache
