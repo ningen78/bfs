@@ -1,0 +1,15 @@
+C:\asobi\cs\bfs\bfs\bin\x64\Release\net6.0\bfs.exe
+C:\asobi\cs\bfs\bfs\bin\x64\Release\net6.0\bfs.deps.json
+C:\asobi\cs\bfs\bfs\bin\x64\Release\net6.0\bfs.runtimeconfig.json
+C:\asobi\cs\bfs\bfs\bin\x64\Release\net6.0\bfs.dll
+C:\asobi\cs\bfs\bfs\bin\x64\Release\net6.0\bfs.pdb
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.csproj.AssemblyReference.cache
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.AssemblyInfoInputs.cache
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.AssemblyInfo.cs
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.csproj.CoreCompileInputs.cache
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.dll
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\refint\bfs.dll
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.pdb
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\bfs.genruntimeconfig.cache
+C:\asobi\cs\bfs\bfs\obj\x64\Release\net6.0\ref\bfs.dll

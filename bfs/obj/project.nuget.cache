@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tpnlG1fxJe0KftzBj+2lkBXaX/uzpNHBRKGB7LXKd+1P3YURlBuaImfrjiCtEQ15MvxKbkoN5++YygxfoVj4Ug==",
+  "dgSpecHash": "rayowtH9femFzy8PV4IWdYf6O8RsJzdw4eo6VSO1a1MciBRpwBLLN78FTp/O19TzKXgPupC1+rstu16QT304aQ==",
   "success": true,
-  "projectFilePath": "C:\\Shigoto\\bfs\\bfs\\bfs.csproj",
+  "projectFilePath": "C:\\asobi\\cs\\bfs\\bfs\\bfs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
